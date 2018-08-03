@@ -1,4 +1,5 @@
 //Piedra papel y tijera
+//rocks, paper, & scissors
 function piedra_papel_tijera (piedra,papel,tijera){
 	if(piedra == true && papel == true && tijera == false){
 		return 'Papel gana';
